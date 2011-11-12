@@ -1,4 +1,7 @@
 Datastores::Application.routes.draw do
+
+  mount DatastoreRedis::Engine => "/datastore_redis"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
