@@ -128,7 +128,6 @@ DEPENDENCIES
   heroku
   jquery-rails
   rails (= 3.1.1)
-  redis
   sass-rails (~> 3.1.4)
   sqlite3
   uglifier (>= 1.0.3)
