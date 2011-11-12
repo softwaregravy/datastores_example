@@ -32,3 +32,4 @@ gem 'jquery-rails'
 
 gem 'heroku'
 gem 'datastore_redis'
+gem 'redis'
